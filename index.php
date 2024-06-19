@@ -9,7 +9,7 @@
     <meta name="google-site-verification" content="y1scjlPjnMwn167QNwtbzqpA3VxqGrb4rx3XU9rOoIY" />
 
     <title>
-    ANAPEC
+    ANAPEC 2024
     
     </title>
     <!-- start css -->
